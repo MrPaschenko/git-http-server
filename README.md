@@ -1,4 +1,4 @@
-# git http server
+# Git http server
 
 # Installation
 ## 1. Clone repository
