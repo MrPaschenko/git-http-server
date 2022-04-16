@@ -10,4 +10,4 @@ Make get request to your IP with endpoint /time
 ## Contributors:
 - Dmytro Pashchenko
 - Yaroslav Kokoshko
-- Zamula Liuba
+- Liuba Zamula
