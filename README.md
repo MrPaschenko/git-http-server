@@ -3,7 +3,7 @@
 # Installation
 ## 1. Clone repository
 `git clone https://github.com/MrPaschenko/git-http-server`
-## 2.  Building
+## 2.  Run
 `go run *.go`
 # Using
 Make get request to your IP with endpoint /time
