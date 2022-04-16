@@ -7,3 +7,7 @@
 `go run *.go`
 ## 3.  Using
 Make get request to your IP with endpoint /time
+## Contributors: 
+- Kokoshko Yaroslav
+- Pashchenko Dmytro
+- Zamula Liubov
