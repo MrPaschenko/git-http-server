@@ -1,4 +1,4 @@
-# git-http-server
+# git http server
 
 # Installation
 ## 1. Clone repository
