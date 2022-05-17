@@ -16,7 +16,7 @@ git clone https://github.com/MrPaschenko/git-http-server
 go run *.go
 ```
 
-# Using
+## Using
 
 Make get request to your IP with endpoint /time
 
